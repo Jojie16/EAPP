@@ -12,10 +12,9 @@ body{
     border-radius: 15px;
     text-align: center;
     color: white;
-    font-size: 20px;
     background-color: rgba(0, 109, 54, 0.918);
     font-family: 'Tangerine', serif;
-    font-size: 48px;
+    font-size: 25px;
     text-shadow: 4px 4px 4px #aaa;
 
 }
@@ -35,7 +34,7 @@ body{
 .owner_info{
     margin-top: 30px;
     font-weight: bold;
-    color: rgb(206, 255, 71)
+    color: rgb(206, 255, 71);
 
 }
 
@@ -53,7 +52,8 @@ body{
 
     margin-top: 10px;
     font-weight: bold;
-    color: rgb(206, 255, 71)
+    color: rgb(206, 255, 71);
+    font-family: 'Tangerine', serif;
 
 }
 
@@ -73,6 +73,7 @@ body{
     margin-top: 10px;
     font-weight: bold;
     color: rgb(206, 255, 71);
+    font-family: 'Tangerine', serif;
 }
 
 .set{
@@ -91,7 +92,7 @@ body{
     border-radius: 35px;
     border-style: double;
     color: white;
-    font-family: cursive;
+    font-family: 'Tangerine', serif;
 
 }
 
@@ -99,6 +100,7 @@ body{
     margin-top: 10px;
     font-weight: bold;
     color: rgb(206, 255, 71);
+    font-family: 'Tangerine', serif;
 }
 
 .submit{
