@@ -12,9 +12,11 @@ body{
     border-radius: 15px;
     text-align: center;
     color: white;
-    font-family: cursive;
     font-size: 25px;
     background-color: rgba(0, 109, 54, 0.918);
+    font-family: 'Tangerine', serif;
+    font-size: 48px;
+    text-shadow: 4px 4px 4px #aaa;
 
 }
 
